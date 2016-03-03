@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pvirgiliimaronis001virg_0135.png"; bbox 0 0 1715 3028; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 183 987 1281 1094">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 183 987 1281 1094">
+     <span class='ocr_line' id='line_1_1' title="bbox 183 987 1281 1094; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 183 1023 252 1093; x_wconf 84' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 305 987 740 1094; x_wconf 80' lang='lat' dir='ltr'>VIRGILII</span> <span class='ocrx_word' id='word_1_3' title='bbox 789 1024 1281 1094; x_wconf 78' lang='lat' dir='ltr'><strong>MARONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 279 1225 1182 1347">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 208 1225 1182 1388">
+     <span class='ocr_line' id='line_1_2' title="bbox 279 1225 1182 1347; baseline 0.002 -1.854"><span class='ocrx_word' id='word_1_4' title='bbox 279 1225 1182 1347; x_wconf 76' lang='lat' dir='ltr'><strong>AENEIS</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
